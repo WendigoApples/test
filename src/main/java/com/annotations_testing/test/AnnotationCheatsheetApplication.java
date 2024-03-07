@@ -40,10 +40,7 @@ public class AnnotationCheatsheetApplication {
     }
 
     public static void main(String[] args) {
-        try (ConfigurableApplicationContext configurableApplicationContext = SpringApplication.run(AnnotationCheatsheetApplication.class, args)) {
-        }
 
-        throw();
 
     }
 
